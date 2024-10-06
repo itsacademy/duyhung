@@ -1,0 +1,589 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0;
+}
+
+.home {
+    background-image: url(https://preview.colorlib.com/theme/appru/img/home-banner-bg.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+}
+
+.header {
+    color: white;
+    background-color: transparent;
+}
+
+.app {
+    font-size: 70px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.app-inappropriate {
+    padding-top: 260px;
+}
+
+.iphone {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.inappropriate {
+    font-size: 16px;
+    margin-bottom: 60px;
+}
+
+.apple {
+    background-color: white;
+    color: black;
+    border-color: rgb(229, 229, 229);
+    padding-left: 30px;
+    padding-right: 70px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    width: 250px;
+    height: 75px;
+    border-style: groove;
+    border-width: 1px;
+    margin-right: 20px;
+}
+
+.apple1 {
+    font-size: 25px;
+    font-weight: 600;
+
+}
+
+.android {
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    padding-right: 70px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+    width: 250px;
+    height: 75px;
+}
+
+.android1 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.decimal-integer {
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.col-infor {
+    margin: 45px 0;
+    padding: 8px 16px;
+    border-right: 1px solid;
+    font-weight: 500;
+}
+
+.Unique {
+    text-align: center;
+    font-size: 38px;
+
+}
+
+.Lorem {
+    text-align: center;
+    font-size: 16px;
+}
+
+.unique-features {
+    margin-top: 60px;
+}
+
+.word1 {
+    margin-top: 100px;
+}
+
+.usage {
+    padding: 60px 30px;
+    text-align: center;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.usage1 {
+    margin-top: 20px;
+}
+
+.book-icon {
+    text-align: center;
+    width: 90px;
+    height: 90px;
+    background-image: -webkit-linear-gradient(0deg, #46dbf9 0%, #204be3 100%);
+    margin: 0 auto;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.apple-icon {
+    color: gray;
+    margin-right: 20px;
+}
+
+.android-icon {
+    color: white;
+    margin-right: 20px;
+}
+
+.we-believe {
+    padding-top: 250px;
+}
+
+.we-lorem {
+    margin-top: 100px;
+}
+
+.lorem {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    max-width: 75%;
+    color: #777777;
+}
+
+.get-detail {
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 50px;
+    color: white;
+    background-image: -webkit-linear-gradient(0deg, #46dbf9 0%, #204be3 100%);
+    font-weight: 600;
+    border-style: none;
+}
+
+.believe {
+    font-weight: 700;
+}
+
+.lorem1 {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    max-width: 90%;
+    color: #777777;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.video {
+    background: url(https://preview.colorlib.com/theme/appru/img/video-bg.jpg);
+    background-size: cover;
+    height: 645px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.play-button {
+    color: white;
+}
+
+.apple-android {
+    display: flex;
+}
+
+.chess {
+    margin-bottom: 150px;
+}
+
+.five-stars {
+    display: flex;
+    text-align: center;
+}
+
+.as-conscious {
+    font-size: 18px;
+    margin-top: 40px;
+}
+
+.ninety-nine {
+    color: rgb(229, 229, 229);
+    ;
+    margin-bottom: 30px;
+    font-size: 55px;
+}
+
+.four-people {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.personal-picture {
+    margin-right: 15px;
+}
+
+@media (max-width:900px) {
+    .iphone2 {
+        display: none;
+    }
+
+    .iphone {
+        display: none;
+    }
+
+    .image {
+        display: none;
+    }
+
+    .number {
+        border-right: 0;
+    }
+}
+
+.word {
+    text-align: center;
+}
+
+.featured {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.four-image {
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+
+.suitable {
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.suitable-lorem {
+    margin-bottom: 60px;
+}
+
+.img-skibidi {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.lorem2 {
+    font-size: 16px;
+}
+
+.euro {
+    border-bottom: 1px solid #eeeeee;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 40px 20px 40px;
+}
+
+.column {
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    max-width: 350px;
+    margin-bottom: 20px;
+}
+
+.purchase-plan {
+    border: 1px solid #dddddd;
+    height: 50px;
+    padding-left: 45px;
+    padding-right: 45px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.bottom {
+    padding: 40px;
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+}
+
+.list1 {
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #222222;
+    padding: 150px 0px;
+}
+
+.three-column {
+    margin-bottom: 80px;
+    display: flex;
+}
+
+.footer .column1 h4 {
+    color: white;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.footer .column1 li {
+    color: #777777;
+    list-style: none;
+    margin-bottom: 15px;
+}
+
+.footer .column1 p {
+    margin-bottom: 25px;
+    color: #777777;
+}
+
+.your-email {
+    border-radius: 0%;
+    height: 40px;
+    width: 70%;
+    border: none;
+}
+
+.arrow-button {
+    height: 40px;
+    width: 40px;
+    background-image: -webkit-linear-gradient(0deg, #46dbf9 0%, #204be3 100%);
+    color: white;
+    border: none;
+}
+
+.end-footer span {
+    color: #46dbf9;
+}
+
+.end-footer {
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+.about {
+    padding-top: 162px;
+}
+
+.about-us {
+    display: block;
+}
+
+.right-part {
+    text-align: center;
+}
+
+.about .about-us .left-part p {
+    max-width: 510px;
+}
+
+.about .about-us .left-part h1 {
+    margin-bottom: 15px;
+}
+
+.about .about-us .right-part a {
+    color: white;
+    text-decoration: none;
+}
+
+.caret-button {
+    color: white;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+.col-infor1 {
+    margin: 45px 0;
+    padding: 8px 16px;
+    font-weight: 500;
+}
+
+.five-stars .list2 li {
+    display: inline-block;
+    color: #ffc000;
+}
+
+.purchase-plan:hover {
+    background-image: -webkit-linear-gradient(0deg, #46dbf9 0%, #204be3 100%);
+    color: white;
+}
+
+.apple:hover {
+    background-color: #46dbf9;
+    color: white;
+}
+
+.android:hover {
+    background-color: #46dbf9;
+    color: white;
+}
+
+.get-detail:hover {
+    background-color: white;
+    color: #46dbf9;
+    border: #46dbf9;
+}
+
+.great:hover {
+    color: #46dbf9;
+}
+
+.section-contact {
+    padding: 150px 0;
+}
+
+.section-div-contact {
+    width: 100%;
+    position: relative;
+    height: 500px;
+}
+
+.section-oops-contact {
+    height: 100%;
+    width: 100%;
+    background-color: #e8eaed;
+    position: absolute;
+
+}
+
+.section-container-div {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-message {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.address {
+    display: flex;
+    flex-direction: column;
+    margin-top: 120px;
+}
+
+.section-address-div {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.section-contact .section-address-div h5 {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.section-contact .section-address-div .icon {
+    color: #46dbf9;
+    margin-right: 30px
+}
+
+.contact-textarea {
+    height: 170px;
+    width: 350px;
+    font-size: 16px;
+
+}
+
+.contact-enter-div {
+    margin-top: 120px;
+}
+
+.enter-div {
+    width: 350px;
+    margin-bottom: 20px;
+    height: 40px;
+    font-size: 14px;
+    border-radius: 0;
+    border: 1px solid #ced4da;
+    padding: 15px;
+}
+
+.contact-button {
+    background-image: -webkit-linear-gradient(0deg, #46dbf9 0%, #204be3 100%);
+    color: white;
+    border: none;
+    width: 180px;
+    height: 50px;
+    float: right;
+    margin-top: 20px;
+}
+
+#navbarNav {
+    text-align: end;
+    color: white;
+    justify-content: end;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.col-infor2 {
+    margin: 45px 0;
+    padding: 8px 16px;
+    font-weight: 500;
+    border-right: 1px solid;
+}
+
+.column-skibidi {
+    display: flex;
+    justify-content: center;
+}
+
+/* danh cho dien thoai doc */
+@media (max-width: 576px) {
+    .about .about-us .right-part a {
+        color: black;
+        text-decoration: none;
+    }
+
+    .caret-button {
+        color: black;
+        margin-left: 10px;
+        margin: 10px;
+    }
+
+    .right-part {
+        margin-top: 100px;
+        text-align: left;
+    }
+
+    .col-infor2 {
+        margin: 45px 0;
+        padding: 8px 16px;
+        font-weight: 500;
+    }
+    .home{
+        min-height: 70vh;
+    }
+
+}
+input, textarea{
+  
+    padding: 10px;  
+    margin: 10px 0;  
+    border: 1px solid #ccc;  
+    border-radius: 4px;  
+    font-size: 14px;
+}
